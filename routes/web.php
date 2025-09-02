@@ -45,3 +45,5 @@ Route::view('/about', 'pages.about')->name('about');
 Route::view('/softwares', 'pages.softwares')->name('softwares');
 Route::view('/tender', 'pages.tender')->name('tender');
 Route::view('/contact', 'pages.contact')->name('contact');
+
+#new routes will be added here
